@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.env
+.DS_Store
+dist/
+.nuxt/
+.output/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.cache/
