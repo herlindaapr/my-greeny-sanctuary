@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Archivo Black", sans-serif;
+  --font-body: "Quicksand", sans-serif;
+}
