@@ -1,7 +1,5 @@
 <template>
-  <div class="w-full h-full">
-    <Homepage />
-    <FYItips />
-    <CTApage />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>

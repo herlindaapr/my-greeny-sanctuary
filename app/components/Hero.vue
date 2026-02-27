@@ -14,9 +14,8 @@
           
           <!-- Navigation -->
           <nav class="hidden md:flex items-center gap-6 lg:gap-8">
-            <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">Plant Shop</a>
-            <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">Inspirations</a>
-            <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">About PlantFashion</a>
+            <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">Journal</a>
+            <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">About</a>
             <a href="#" class="font-body text-gray-900 hover:text-gray-700 transition-colors text-sm lg:text-base">Contact</a>
           </nav>
         </header>
